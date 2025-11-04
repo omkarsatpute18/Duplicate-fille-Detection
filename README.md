@@ -28,7 +28,3 @@ To compile and run this project, ensure the following are installed:
 - **C Compiler** (e.g., GCC)
 - **OpenSSL Library**
 
-To install OpenSSL on Linux (Ubuntu/Debian):
-
-```bash
-sudo apt install libssl-dev
